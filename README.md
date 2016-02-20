@@ -1,3 +1,4 @@
-The OpenShift `nodejs` cartridge documentation can be found at:
+nodejs-c4
+=========
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
+Node.JS implementation for Snova C4 Server.
